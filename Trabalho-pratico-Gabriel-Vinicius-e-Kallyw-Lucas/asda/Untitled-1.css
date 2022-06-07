@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    box-sizing: border-box;
+}
+form {
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    font-size: 20px;
+}
+legend {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}

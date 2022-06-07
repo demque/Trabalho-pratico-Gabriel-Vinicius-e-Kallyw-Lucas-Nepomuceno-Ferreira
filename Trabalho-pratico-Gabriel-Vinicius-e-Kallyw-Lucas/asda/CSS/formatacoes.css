@@ -1,0 +1,184 @@
+/*CSS TRABALHO DE FRONT END*/
+
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: #ffffff;
+    
+    
+}
+.corpo-quemeusou{
+    text-align: left;
+    height: 300px;
+    padding: 27px;
+}
+.Centralizador{
+    margin: auto;
+}
+.LOGO{
+    height: 200PX;
+    width: 150;
+    
+}
+
+
+header{
+    text-align: center;
+    
+}
+header ul{
+    background-color: #5b5c5e;
+    margin-top: 1.5em;
+}
+header li{
+    list-style: none;
+    display: inline-block;
+    padding: 0.75em;
+    font-size: 1rem;
+}
+header a{
+    text-decoration: none; color: rgb(0, 0, 0);
+    font-size: 20px;
+    border-radius: 20px;
+}
+.Menu a:hover{
+    background-color: #ffffff;
+}
+main{
+    margin-top: 4em;
+}
+article{
+    width: 85%;
+}
+article img{
+    border-radius: 500px;
+    width: 45%;
+    float: right;
+    margin: 0 0 2.5em;
+    box-shadow: 5px
+}
+p{
+    color: #000000;
+    font-size: 1.5em;
+    line-height: 160%;
+    margin-bottom: 5em;
+    
+}
+h2{
+    padding: 1em;
+    font-size: 1.5em;
+    margin-bottom: .72em;
+    color: rgb(0, 0, 0);
+}
+h1{
+    padding: 1em;
+    font-size: 1.5em;
+    margin-bottom: .72em;
+    color: rgb(0, 0, 0);
+}
+hr{
+    width: 85%;
+    margin: 4em auto;
+    border: 1.5px solid rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.16);
+}
+#copyright{
+    background-color: #000;
+	color: #f2fffc;
+	clear: both;
+    text-align: center;
+    font-size: 1em;
+    margin: 20px 0;
+}
+
+.gerador{
+    text-align: center;
+    
+
+
+}
+#titlegerador{
+    font-size: 30px;
+    box-shadow: #000000;
+}
+
+#conteiner01{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+
+}
+img{
+    border-radius: 60px;
+}
+#Kaly-foto{
+    border-radius: 500px;
+    width: 30%;
+    float: right;
+    margin: 0 0 2.5em;
+    box-shadow: 5px
+}
+#Sobre-mim{
+    text-align: left;
+    height: 300px;
+    padding: 27px;
+}
+
+#carouselExampleControls{
+    height: 500px;
+    width: 500px;
+
+}
+#FRONT-END{
+    width: 30%;
+    float: right;
+    margin: 0 0 2.5em;
+    box-shadow: 5px
+
+}
+
+
+.form-container{
+    text-align: center;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    font-size: 20px;
+
+}
+/*CSS FORMULARIO*/
+
+
+* {
+    text-align: center;
+    box-sizing: border-box;
+}
+form {
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    font-size: 20px;
+}
+legend {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+  
+  
